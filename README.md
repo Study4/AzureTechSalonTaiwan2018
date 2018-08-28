@@ -15,7 +15,7 @@
 **利用Azure Storage實踐Angular SPA - Kevin Yang && Alan Liu**  
 投影片：Repo 內  
   
-##其他資訊  
+## 其他資訊  
 活動總召: Alan Liu  
 工作人員：Jimmy Ho, Sam xiao, Tobey, Ina Lia, Summit(孫玉峰), Duran Hsieh  
 
